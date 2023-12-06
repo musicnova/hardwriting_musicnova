@@ -28,6 +28,30 @@ https://docs.google.com/document/d/19HlKPfr-kQIKtzb8Y1QABYjcJ4CL7pSrnkj5BBX_az8/
 VIDEO
 
 
+part1.1 (sk)
+
+
+https://disk.yandex.ru/i/psxHxkwacYbmYQ
+
+
+part1.2 (sk)
+
+
+https://disk.yandex.ru/i/QtofxDGSiGeaVg
+
+
+part1.3 (sk)
+
+
+https://disk.yandex.ru/i/ivGmBwikn47mrw
+
+
+part1.4 (sk)
+
+
+https://disk.yandex.ru/i/AHdH5pUEWE4RPw
+
+
 05.12
 
 
