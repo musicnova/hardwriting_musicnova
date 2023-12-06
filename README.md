@@ -52,6 +52,42 @@ part1.4 (sk)
 https://disk.yandex.ru/i/AHdH5pUEWE4RPw
 
 
+part2.1 (ya)
+
+
+https://disk.yandex.ru/i/3nBRKl-163LPlQ
+
+
+part2.2 (ya)
+
+
+https://disk.yandex.ru/i/_OI4ujxDj9FC8Q
+
+
+part2.3 (ya)
+
+
+https://disk.yandex.ru/i/4ocvRGwPLpRytg
+
+
+part2.4 (ya)
+
+
+https://disk.yandex.ru/i/EGE0Vfg6zqfewA
+
+
+part2.5 (ya)
+
+
+https://disk.yandex.ru/d/niIykQhOfLGg8w
+
+
+part2.6 (ya)
+
+
+https://disk.yandex.ru/i/96-8RPCnQ31cDg
+
+
 part3.1 (tr)
 
 
