@@ -28,3 +28,7 @@ https://docs.google.com/document/d/19HlKPfr-kQIKtzb8Y1QABYjcJ4CL7pSrnkj5BBX_az8/
 VIDEO
 
 
+05.12
+
+
+https://disk.yandex.ru/i/ujJWLloNAtPQ0A
