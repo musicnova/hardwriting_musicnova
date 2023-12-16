@@ -18,3 +18,6 @@ https://habr.com/ru/companies/contentai/articles/749974/
 
 
 ** ДАТАСЕТ 3 для аббревиатур: ** https://www.kaggle.com/datasets/xhlulu/medal-emnlp/download?datasetVersionNumber=4
+
+
+** DOCKER: ** https://www.youtube.com/watch?v=i4XlApdCuc8
