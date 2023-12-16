@@ -21,3 +21,6 @@ https://habr.com/ru/companies/contentai/articles/749974/
 
 
 ** DOCKER: ** https://www.youtube.com/watch?v=i4XlApdCuc8
+
+
+** BIOS: ** https://pacificsky.ru/virtualization/docker/111-docker-zapusk-docker-na-windows-bez-hyper-v.html
