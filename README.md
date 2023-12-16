@@ -29,7 +29,7 @@ https://drive.google.com/drive/folders/1t9epVVjm-wvQ9CEEeVpdC1aTsGLPMVuK?usp=sha
 ** ДАТАСЕТ 3 для аббревиатур: ** https://www.kaggle.com/datasets/xhlulu/medal-emnlp/download?datasetVersionNumber=4
 
 
-
+https://drive.google.com/drive/folders/17BQFUOHJvsdJlDdtUcIJG4mkm6jzPdfo?usp=sharing
 
 
 ** DOCKER: ** https://www.youtube.com/watch?v=i4XlApdCuc8
