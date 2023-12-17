@@ -48,8 +48,8 @@ Detect handwritten words with YOLOV5
 </p>
 
 ## Installation
-- `git clone https://github.com/kos94ok/WordDetectorYolov5.git`
-- `cd WordDetectorYolov5`
+- `git clone https://github.com/musicnova/hardwriting_musicnova.git`
+- `cd hardwriting_musicnova`
 - `pip install -r requirements.txt`
 -  Download [pretrained model](https://huggingface.co/docs/transformers/model_doc/trocr), and place the unzipped files into the ckpt directory
 
