@@ -5,10 +5,12 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
+KEY = "ShAn675sb5"
+
 def download_repository():
     repository_url = "https://github.com/musicnova/hardwriting_musicnova"
-    target_directory = "/tmpShAn675sb5"
-    shutil.rmtree(target_directory, ignore_errors=True)
+    target_directory = os.path.join("./tmp", KEY)
+    shutil.rmtree("./tmp", ignore_errors=True)
     subprocess.call(["git", "clone", repository_url, target_directory])
 
 def ffmpeg_transcode(input_file, output_url, mirror=False):
@@ -16,6 +18,8 @@ def ffmpeg_transcode(input_file, output_url, mirror=False):
     subprocess.call(
         [
             "ffmpeg",
+            "-y",
+            "-loop",
             "-i",
             input_file,
             "-vf",
@@ -29,9 +33,9 @@ def ffmpeg_transcode(input_file, output_url, mirror=False):
     )
 
 def main():
-    repository_path = "/tmpShAn675sb5"
+    repository_path = os.path.join("./tmp", KEY)
     videos_directory = os.path.join(repository_path, "videos")
-    output_rtsp_url = "rtsp://stream:ShAn675sb5@127.0.0.1:13554"
+    output_rtsp_url = "rtsp://stream:" + KEY + "@127.0.0.1:13554"
     mirror_frames = False
 
     download_repository()
